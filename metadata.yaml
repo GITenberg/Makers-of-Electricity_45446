@@ -37,6 +37,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'QC'
 - !lcsh 'Electricity -- Biography'
+- GITenberg
 tableOfContents: Peregrinus and Columbus -- Norman and Gilbert -- Franklin and some
   contemporaries -- Galvani, discoverer of animal electricity -- Volta, the founder
   of electrical science -- Coulomb -- Hans Christian Oersted -- André Marie Ampère
